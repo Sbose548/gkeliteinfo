@@ -37,7 +37,7 @@ const page = () => {
             </div>
 
             <div className="col-lg-7" data-aos="fade-up" data-aos-delay="200">
-              <Image src="/assets/img/hero-carousel/b2b.JPG" alt="B2B & B2C Sales Mastery" title='B2B & B2C Sales Mastery' className="img-fluid services-img" width={300} height={300} />
+              <Image src="/assets/img/hero-carousel/b2b.jpg" alt="B2B & B2C Sales Mastery" title='B2B & B2C Sales Mastery' className="img-fluid services-img" width={300} height={300} />
 
               {/* <h3>Temporibus et in vero dicta aut eius lidero plastis trand lined voluptas dolorem ut voluptas</h3> */}
 
