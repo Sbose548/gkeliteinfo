@@ -9,28 +9,28 @@ const HeroCarousel = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
   const slides = [
     {
-      src: "/assets/img/hero-carousel/ai_services.JPG",
+      src: "/assets/img/hero-carousel/ai_services.jpg",
       alt: "AI Services",
       title: "AI Services",
       description:
         "GKelite-Info Digital harnesses the power of AI to deliver cutting-edge generative AI models, offering innovative solutions tailored to your unique challenges. Empower your business with intelligent, results-driven strategies designed to transform your vision into reality!",
     },
     {
-      src: "/assets/img/hero-carousel/digital_marketing.JPG",
+      src: "/assets/img/hero-carousel/digital_marketing.jpg",
       alt: "Digital Marketing Solutions",
       title: "Dynamic Digital Marketing Solutions",
       description:
       "GKelite-Info Digital amplifies your brand’s visibility and elevates your online presence to new heights with cutting-edge, results-driven digital marketing strategies!",
     },
     {
-      src: "/assets/img/hero-carousel/b2b.JPG",
+      src: "/assets/img/hero-carousel/b2b.jpg",
       alt: "B2B & B2C Sales Mastery",
       title: "B2B & B2C Sales Mastery",
       description:
         " Mastering B2B and B2C sales is crucial in today’s competitive marketplace. GKelite-Info specializes in providing unparalleled sales services that enhance your sales strategy and deliver measurable results in both business-to-business and business-to-consumer sectors.",
     },
     {
-      src: "/assets/img/hero-carousel/bpo_image.JPG",
+      src: "/assets/img/hero-carousel/bpo_image.jpg",
       alt: "BPO Services",
       title: "BPO Services",
       description:
