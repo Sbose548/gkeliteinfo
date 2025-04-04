@@ -121,7 +121,7 @@ const Header = () => {
                 <div className="header-social-links">
                     <a href="#" className="twitter" target="_blank"><i className="bi bi-twitter-x"></i></a>
                     <a href="#" className="facebook" target="_blank"><i className="bi bi-facebook"></i></a>
-                    <a href="#" className="instagram" target="_blank"><i className="bi bi-instagram"></i></a>
+                    <a href="https://www.instagram.com/gkelite_info/" className="instagram" target="_blank"><i className="bi bi-instagram"></i></a>
                     <a href="#" className="linkedin" target="_blank"><i className="bi bi-linkedin"></i></a>
                 </div>
             </div>
