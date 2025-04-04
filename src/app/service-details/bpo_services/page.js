@@ -37,7 +37,7 @@ const page = () => {
             </div>
 
             <div className="col-lg-7" data-aos="fade-up" data-aos-delay="200">
-              <Image src="/assets/img/hero-carousel/bpo_image.JPG" alt="BPO Services" title='BPO Services' className="img-fluid services-img" width={300} height={300} />
+              <Image src="/assets/img/hero-carousel/bpo_image.jpg" alt="BPO Services" title='BPO Services' className="img-fluid services-img" width={300} height={300} />
 
               <h6>1. Customer Support & Contact Center Services</h6>
               <p>Providing exceptional customer support is critical for business success. BPO services help companies handle large volumes of inquiries efficiently.</p>
