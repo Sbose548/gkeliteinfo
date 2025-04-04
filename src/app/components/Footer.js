@@ -23,7 +23,7 @@ const Footer = () => {
                             <div className="social-links d-flex mt-4">
                                 <Link href="#" target="_blank"><i className="bi bi-twitter-x"></i></Link>
                                 <Link href="#" target="_blank"><i className="bi bi-facebook"></i></Link>
-                                <Link href="#" target="_blank"><i className="bi bi-instagram"></i></Link>
+                                <Link href="https://www.instagram.com/gkelite_info/" target="_blank"><i className="bi bi-instagram"></i></Link>
                                 <Link href="#" target="_blank"><i className="bi bi-linkedin"></i></Link>
                             </div>
                         </div>
