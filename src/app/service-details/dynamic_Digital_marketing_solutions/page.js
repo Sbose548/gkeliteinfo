@@ -39,7 +39,7 @@ const page = () => {
             </div>
 
             <div className="col-lg-7" data-aos="fade-up" data-aos-delay="200">
-              <Image src="/assets/img/hero-carousel/digital_marketing.JPG" alt="Dynamic Digital Marketing Solutions" title='Dynamic Digital Marketing Solutions' className="img-fluid services-img" width={300} height={300}/>
+              <Image src="/assets/img/hero-carousel/digital_marketing.jpg" alt="Dynamic Digital Marketing Solutions" title='Dynamic Digital Marketing Solutions' className="img-fluid services-img" width={300} height={300}/>
               {/* <h3>Temporibus et in vero dicta aut eius lidero plastis trand lined voluptas dolorem ut voluptas</h3> */}
 
               <h6>1. Search Engine Optimization (SEO) for Maximum Visibility</h6>
